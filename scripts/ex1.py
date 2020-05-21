@@ -6,7 +6,6 @@
 任意の点をx軸に関して折り返す
 """
 # Python_Reflection
-
 # In[1]
 
 import numpy as np
